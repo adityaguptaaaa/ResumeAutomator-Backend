@@ -82,15 +82,6 @@ alembic upgrade head
 
 The GitHub Actions workflow runs compilation, tests with coverage, and a clean migration on Python 3.12 for pushes to `main` and pull requests.
 
-## Repository map
-
-- `app/routers/core.py`: resume, job, document, analysis, evidence, and account endpoints
-- `app/routers/workflows.py`: applications, interviews, tasks, outreach, searches, and analytics
-- `app/services/ai.py`: deterministic matching plus optional constrained polishing
-- `app/services/documents.py`: PDF validation, parsing, and document export
-- `app/services/scraper.py`: normalized public-URL fetching with SSRF defenses
-- `tests/`: API, ownership, authentication, privacy, and URL-security coverage
-- `alembic/versions/`: versioned database migrations
 
 ## Production boundaries
 
