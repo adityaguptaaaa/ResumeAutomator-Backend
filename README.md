@@ -2,9 +2,6 @@
 
 Secure FastAPI backend for an evidence-first career workspace: resume parsing, explainable job matching, fact-locked writing assistance, application tracking, interview practice, outreach, discovery, and analytics.
 
-[![Backend CI](https://github.com/adity982/ResumeAutomator-Backend/actions/workflows/ci.yml/badge.svg)](https://github.com/adity982/ResumeAutomator-Backend/actions/workflows/ci.yml)
-![Python 3.12](https://img.shields.io/badge/python-3.12-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688)
 
 [Live app](https://resume-automator-frontend.vercel.app/) · [Frontend](https://github.com/adityaguptaaaa/ResumeAutomator-Frontend) · [Roadmap](https://github.com/adity982/ResumeAutomator-Frontend/blob/main/ROADMAP.md) · API docs (`/docs`)
 
