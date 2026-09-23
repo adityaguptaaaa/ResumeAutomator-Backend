@@ -3,7 +3,7 @@
 Secure FastAPI backend for an evidence-first career workspace: resume parsing, explainable job matching, fact-locked writing assistance, application tracking, interview practice, outreach, discovery, and analytics.
 
 
-[Live app](https://resume-automator-frontend.vercel.app/) · [Frontend](https://github.com/adityaguptaaaa/ResumeAutomator-Frontend) · [Roadmap](https://github.com/adity982/ResumeAutomator-Frontend/blob/main/ROADMAP.md) · API docs (`/docs`)
+[Live app](https://resume-automator-frontend.vercel.app/) · [Frontend](https://github.com/adityaguptaaaa/ResumeAutomator-Frontend) · [Roadmap](https://github.com/adityaguptaaaa/ResumeAutomator-Backend/blob/main/src/ROADMAP.md) · API docs (`/docs`)
 
 ## Why this backend is different
 
